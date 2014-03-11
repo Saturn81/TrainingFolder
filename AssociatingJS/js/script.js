@@ -1,16 +1,8 @@
-/**
- * Variables of Different Types
- */
-
-
-var age =38;
+// Arrays
 
 
 
-var firstName= "Jeremy";
+var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rizzo"];  //0,1,2,3
+muppetNames[1]="Charrlie";
 
-
-alert("Hello Everyone my name is Jeremy. I\'m \nhappy to be here today.");
-
-
-
+console.log(muppetNames);
