@@ -1,6 +1,16 @@
 /**
- * Created by Suika on 3/11/14.
+ * Variables of Different Types
  */
 
 
-alert("This is a minor change");
+var age =38;
+
+
+
+var firstName= "Jeremy";
+
+
+alert("Hello Everyone my name is Jeremy. I\'m \nhappy to be here today.");
+
+
+
