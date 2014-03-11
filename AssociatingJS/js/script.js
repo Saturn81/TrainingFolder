@@ -3,4 +3,4 @@
  */
 
 
-alert("Test2");
+alert("This is a minor change");
