@@ -1,9 +1,10 @@
-//Expressions- Expressions with Strings
+//Casting
 
 
-var a ="6";
-var b ="7";
+var areaCode= 407;
+var firstPart=203;
+var secPart =4529;
 
-var result =a +b;
+var phoneNo= "("+ String(areaCode)+ ")" +  String(firstPart) + "-" + String(secPart);
 
-console.log(result);
+console.log(phoneNo);
