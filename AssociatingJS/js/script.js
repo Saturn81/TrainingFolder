@@ -1,9 +1,8 @@
-//Expressions-Age Example
+//Expressions Artimetic Operations
 
 
+var weidth = 4;
+var height = 5;
+var area = weidth * height/2;
 
-var yearBorn = 1981;
-var age= 2014-yearBorn;
-
-
-console.log(age);
+console.log(area);
