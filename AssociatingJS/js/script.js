@@ -1,9 +1,9 @@
-//Expressions Assigments Operators
+//Prompts and ALerts
 
 
+var userInput= prompt("Enter your ages:");
 
-var a=3;
 
-a=a+4;
+var total =Number(userInput)+5;
 
-console.log(a);
+console.log(total);
