@@ -1,8 +1,12 @@
-//Expressions Artimetic Operations
+//Expressions PEMDAS The Order of Operations
 
 
-var weidth = 4;
-var height = 5;
-var area = weidth * height/2;
+var quiz1 =81;
+var quiz2 =100;
+var quiz3=60;
+var quiz4=80;
 
-console.log(area);
+
+var average = (quiz1+quiz2+quiz3+quiz4)/4;
+
+console.log(average);
