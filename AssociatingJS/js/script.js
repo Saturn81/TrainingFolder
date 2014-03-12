@@ -1,11 +1,16 @@
-// Arrays
+//Expressions
+
+
+//var a=2;
+
+//var Power =prompt("How much does he lift");
+
+//console.log(a+Power);
 
 
 
-var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rizzo"];  //0,1,2,3
+var a=2;
+a= a+3
+console.log(a)
 
 
-
-muppetNames[1]="Charlie";
-
-console.log(muppetNames);
