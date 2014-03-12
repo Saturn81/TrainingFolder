@@ -1,16 +1,9 @@
-//Expressions
-
-
-//var a=2;
-
-//var Power =prompt("How much does he lift");
-
-//console.log(a+Power);
+//Expressions-Age Example
 
 
 
-var a=2;
-a= a+3
-console.log(a)
+var yearBorn = 1981;
+var age= 2014-yearBorn;
 
 
+console.log(age);
