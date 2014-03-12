@@ -1,10 +1,9 @@
-//Casting
+//Expressions Assigments Operators
 
 
-var areaCode= 407;
-var firstPart=203;
-var secPart =4529;
 
-var phoneNo= "("+ String(areaCode)+ ")" +  String(firstPart) + "-" + String(secPart);
+var a=3;
 
-console.log(phoneNo);
+a=a+4;
+
+console.log(a);
