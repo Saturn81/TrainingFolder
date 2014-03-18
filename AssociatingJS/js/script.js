@@ -1,11 +1,11 @@
-//Conditioal Logic
+//Conditioal Logic-Ternary Operators
 
-var budget =300;
-var iPhone= 199.99;
-var paycheck = 200;
+var gpa =1.8;
 
-if (iPhone < budget && paycheck > 300){
-console.log("We can buy this here phone")
+if(gpa > 2.0){
+    console.log("you are graduating");
+
 }else{
-    console.log("You ain't getting no phone")
+    console.log("PGA is low, low low.");
+
 }
