@@ -1,13 +1,11 @@
-//Conditional Logic-Relational Expressions
+//Conditioal Logic
 
-var kidHeight=48;
-var minHeight=48;
+var budget =300;
+var iPhone= 199.99;
+var paycheck = 200;
 
-
-//if the child is over 48 inch in height he can ride the ride
-
-if(kidHeight >= minHeight) {
-    console.log("You can ride the coaster!");
+if (iPhone < budget && paycheck > 300){
+console.log("We can buy this here phone")
 }else{
-    console.log("Sorry kid you got some growing to do, boy");
+    console.log("You ain't getting no phone")
 }
