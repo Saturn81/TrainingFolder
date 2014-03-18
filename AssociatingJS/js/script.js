@@ -1,9 +1,9 @@
-//Prompts and ALerts
+//Conditional Logic
 
+var oldEnough =45;
 
-var userInput= prompt("Enter your ages:");
+//if the child is old enough, the print to the console, "you can ride!"
 
-
-var total =Number(userInput)+5;
-
-console.log(total);
+if(oldEnough>56) {
+    console.log("You can ride the coaster!");
+}
